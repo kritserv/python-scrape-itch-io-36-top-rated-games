@@ -1,7 +1,7 @@
 # Scrape Data From itch.io 36 top rated games 
 https://itch.io/games/top-rated
 
-A python code for scraping title author text rating genre from top 36 rated games on itch.io
+A python code for scraping title author text rating genre from top 36 rated games on itch.io using BeautifulSoup and requests
 
 # Python code
 
